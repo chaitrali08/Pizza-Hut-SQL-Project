@@ -1,4 +1,5 @@
 Pizza Hut Sales Analysis using MySQL
+
 📌 Project Overview :
 This project analyses Pizza Hut sales data using MySQL to generate business insights such as total revenue, best-selling pizzas, sales trends, and customer ordering patterns.
 🛠️ Tools Used :
